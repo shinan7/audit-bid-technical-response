@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Source documents and generated audit workspaces must never be published.
+*.docx
+*.pdf
+audit-work*/

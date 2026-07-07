@@ -1,0 +1,12 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+*.docx
+*.pdf
+audit-work*/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "标书技术方案核验"
+  short_description: "逐模块核验采购技术要求与投标技术方案的响应、冲突和风险"
+  default_prompt: "使用 $audit-bid-technical-response 核验采购文件与标书技术方案，并先生成关联关系和模块计划供我确认。"
